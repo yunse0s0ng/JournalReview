@@ -1,0 +1,179 @@
+---
+title: "Intravascular Imaging- or Angiography-Guided PCI"
+author: "Yunseo Song"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: simple
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+# Terminology
+
+## 용어정리1
+
+-   **Coronary artery** : 관상동맥; 심장에 혈액을 공급하는 동맥<br><br>
+-   **Coronary Artery Disease (CAD)** : 관상동맥질환;심장 혈관에 동맥경화증이 진행되면서 혈관이 막혀 심장근육으로의 혈액 공급이 충분히 이루어지지 않는 질병. <br><br>
+-   **Complex Coronary Artery Lesions** : 복잡한 관상동맥 병변; 본 연구에서는 1. 측지 직경≤2.5mm, 2. 동맥 완전 폐쇄, 3. 무보호 좌주간동맥 질환, 4. 긴 관상동맥 병변, 5. 다혈관 PCI 등에 해당하는 병변을 *복잡*하다고 정의함. 
+
+
+## 용어정리2
+
+-   **Percutaneous Coronary Intervention (PCI)** : 경피적 관상동맥 중재술; 협착된 관상동맥을 넓혀 혈류를 개선하는 시술. 주로 스텐트(stent)를 삽입해 좁아진 혈관을 확장함. <br><br>
+-   **Optical Coherence Tomography (OCT)** : 광 간섭 단층 촬영; 고해상도 이미지를 제공하는 의료 영상 기술로, 혈관 내부 구조를 자세하게 관찰할 수 있도록 함.  <br><br>
+-   **Intravascular Ultrasonography (IVUS)** : 혈관 내 초음파; 초음파로 혈관 내부 시각화하여 협착 부위의 형태 및 크기를 정확하게 평가하는 방법. 혈관의 단면을 직접 확인할 수 있고, 비교적 자세한 해부학적인 정보를 제공함.
+
+## 용어정리3
+
+-   **Coronary Angiography (CAG)** : 관상동맥 조영술; 관상동맥에 조영제를 넣어 구조 및 형태를 관찰하는 검사. CAD를 평가하고 PCI를 가이드하는 가장 기본적인 방법.<br><br>
+-   **Revascularization** : 재혈관화; 혈액 공급이 부족한 조직에 혈액을 다시 공급하기 위해 시행하는 의학적 절차. <br><br>
+-   **Drug-Eluting Stents (DES)** : 약물 방출 스텐트; 스텐트에 포함되어 있던 약물을 방출하여, 스텐트 삽입 후 동맥의 재협착을 방지하는 스텐트. 
+
+# Background
+
+## 연구배경1
+-   이전의 무작위 배정 임상시험(RCT)은 IVUS 가이드 PCI가 CAG 가이드 PCI보다 주요 부정적 임상 사건의 발생 비율이 낮다는 것을 보여줌. <br><br>
+-   *그러나*, 표본 크기가 제한적이거나 관찰된 관상동맥 병변의 종류가 다양하지 않고, follow-up 기간이 짧았음. 많은 수의 환자를 연구한 사례도 있었으나, 스텐트 최적화의 정의가 달랐고 1세대 DES를 사용한 환자들이 포함됨. 
+
+## 연구배경2
+-   따라서, 복잡한 관상동맥 병변 환자에서 **IVUS 또는 OCT 가이드 PCI가 CAG 가이드 PCI에 비해 임상 결과를 향상시키는지**를 확인하고자 RENOVATE-COMPLEX-PCI를 시행함! 
+
+## 연구 대상
+
+::: panel-tabset
+
+### Population
+-   20 sites in South Korea
+-   **complex coronary-artery lesions**을 가진 19세 이상의 환자. <br><br>
+-   제외 조건: 1. PCI에 적합하지 않은 관상동맥 병변, 2. 심인성 쇼크, 3. 알레르기 환자, 4. 임신 또는 수유 중인 환자 
+
+### Randomization 
+
+-    Intravascular 그룹과 CAG 그룹에 2:1로 무작위 배정. (시술자 재량으로 IVUS와 OCT 중 하나를 선택) <br><br>
+-   심장 질환의 안정성과 참여기관에 따라 층화함. 
+
+:::
+
+## Stent Optimization 
+
+::: panel-tabset
+### Intravascular 
+-   충분한 스텐트 확장 (w\/o 주요 스텐트 부적합) 또는 가장자리 박리 없음. <br><br> 
+-   영상술은 PCI 전과정에서 사용될 수 있으나, 스텐트 삽입 후 스텐트 최적화 확인을 위해 시행되어야 함. 
+
+
+### CAG 
+-   잔여 협착 직경이 기준 혈관 직경의 10% 미만 혹은 혈류 제한 관상동맥 박리가 없음. 
+
+:::
+
+## End Points 
+
+-   Primary End Point <br>
+Target-Vessel Failure (심장 원인 사망, 표적 혈관 관련 심근경색, 재혈관술) <br><br>
+
+-   Secondary End Point <br>
+주요 평가 지표의 구성 요소, 스텐트 혈전증 등 
+
+
+## Sampling 
+
+-   1620 (2:1 = Intravascular:CAG) <br>
+-   Power (1-β) = 0.9 <br>
+-   TypeI Error Rate : 5% (two-sided) <br>
+-   Assumed Annual Event Rate : 3.6% (Intravascular), 6.0% (CAG) <br>
+-   Accrual Time : 3 yrs <br>
+-   Follow-up Time : median 2.5 yrs <br>
+-   Log-rank test를 시행한 Kaplan-Meier 생존 분석으로 표본 크기 결정. 
+
+
+# Analysis 
+
+## 통계 분석1 
+
+::: panel-tabset
+### Figure S1
+
+<img src="RENOVATE Figure S1.png"/>
+
+### 표본  
+-   Complex coronary artery lesion을 가진 환자 1639명 <br>
+-   Intravascular군 1092명 (IVUS 800명, OCT 278명), CAG군 547명  <br>
+-   Intravascular군의 14명의 환자들에 영상 도구를 사용하지 않았고, CAG군의 13명의 환자들에게 영상 도구가 사용됨. (해당 결과는 ITT 분석에서 활용됨.)  <br>
+-   안정형 허혈성 심장 질환 (807명), 급성 관상동맥 증후군 (832명)  <br>
+
+:::
+
+## 통계 분석2
+-   누적 발생률 함수를 추정하고 Fine and Gray 방법을 통해 비심장 원인 사망의 경쟁 위험을 조정함. (-\> Competing-Risk Analysis) <br>
+-   민감도 분석-\> Kaplan-Meier, Cox Proportional-Hazards Regression Model (95% CI) <br>
+-   Schoenfeld Residual로 two-sided test 진행해 비례위험 가정 증명.
+
+## 통계 분석3
+-   관상동맥 표적 병변의 특성과 PCI 절차는 두 집단 간에 잘 균형 잡혀 있음. (ex. 복잡한 관상동맥 병변 유형, CAG로 평가된 CAD의 심각성)
+-   Intravascular군에서 비순응성 풍선 사용 빈도가 더 높았음. <br>
+-   최소 루멘 직경: 2.8±0.5mm (Intravascular), 2.7±0.5mm (CAG) <br>
+-   스텐트 최적화 비율: IVUS 55.5%, OCT 56.5%, CAG 58.9%
+
+## 통계 분석4
+
+::: panel-tabset
+
+### Primary End Point (A)
+-   2.1 yrs of median follow-up <br>
+-   Intravascular :1092명 中 76명 (누적발생률 7.7%) <br>
+-   CAG : 547명 中 60명 (누적발생률 12.3%) <br>
+-   Hazard Ratio : 0.64 (0.45-0.89), P=0.008 
+
+### Primary End Point (B)
+-   TVF w\/o Procedure-Related Myocardial Infarction <br>
+-   5.1% (Intravascular) vs. 8.7% (CAG) <br>
+-   Hazard Ratio : 0.59 (0.39-0.90)
+
+
+### Figure 1
+
+<img src="RENOVATE Figure 1.jpeg"/>
+
+:::
+
+
+## 통계 분석5
+
+
+::: panel-tabset
+
+### Secondary End Points 
+-   표적 혈관 관련 심근경색 (TVF MI) 혹은 심장 관련 죽음 : 5.3% (Intravascular) vs. 8.5% (CAG), HR 0.63 <br>
+-   스텐트 혈전증 누적 발생률 : 0.1 % (Intravascular) vs. 0.7% (CAG), HR 0.25
+
+### Table 3
+
+<img src="RENOVATE Table 3.jpeg"/>
+
+### Figure 2
+
+<img src="RENOVATE Figure 2.jpeg"/>
+
+
+:::
+
+## Conclusion 
+
+-   **Intravascular Imaging 가이드 PCI가 CAG 가이드 PCI보다 complex coronary artery lesions를 더욱 효과적으로 치료할 수 있음!**
+
+
+## Significance
+-   여러 유형의 complex coronary artery lesions를 포함. <br>
+-   최신의 스텐트 최적화 기준. <br>
+-   심장 원인 사망 및 표적 혈관 관련 심근경색 위험에 초점을 맞춤. (이전에는 재혈관화 감소에 주목)
+
+## Limitations
+1. 시술자가 환자의 배정 그룹을 알고 있었음. <br>
+2. Intravascular군의 스텐트 최적화가 45.4%에 그침. <br>
+3. CAG군의 스텐트 최적화의 평가에 제한이 있었음. <br>
+4. 시험 인구의 1/2 이상이 단일 센터에서 모집되었음. <br>
+5. Intravascular Imaging이 추가 비용을 초래함. 
